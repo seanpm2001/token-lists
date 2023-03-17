@@ -7,7 +7,7 @@
     "@solflare-wallet/utl-aggregator": "^0.0.11",
     "node-fetch": "2",
     "nodejs-file-downloader": "^4.9.3",
-    "qyu": "^0.4.7",
+    "qyu": "^1.0.0",
     "sharp": "^0.30.5",
     "svg-resizer": "git+https://git@github.com/brave/svg-resizer.git"
   },
